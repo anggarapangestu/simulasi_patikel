@@ -1,0 +1,7 @@
+Description of the code in the following folder
+
+\Program 1\
+> This program is a trial to perform several basic of pointer and data type
+
+\Program 2\
+> This program is the LSMPS code
