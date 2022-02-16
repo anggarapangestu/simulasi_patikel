@@ -51,4 +51,5 @@ LSMPSA::LSMPSA(std::vector<Particle>& p_n, std::vector<double>& w, Particle p, d
 
     std::vector<double> temporary = linalg::GJE(M, b);
     this->Df_x = linalg::multiMat(Hrs, temporary);
+    // Perubahan
 }
